@@ -1,25 +1,27 @@
 ---
-title:  "chapter 1 첫 게시물 예시" 
-excerpt: "첫 게시물 예시"
+title:  "test" 
+excerpt: "테스트 하는 중~~ 성공해라"
 
 categories:
-  - Blog
+  - Study
 tags:
-  - [Blog, Git, Github,]
+  - [hashtag, tag, test,]
 
 toc: true
 toc_sticky: true
  
-date: 2020-09-25
-last_modified_at: 2020-09-25
+date: 2023-02-15
+last_modified_at: 2023-02-15
 
 ---
 
 
-## 위 형식을 참고하여 블로그를 커스텀하시오
+## 이렇게 해서 포스팅 하는겁니까?
 
-`-` 게시물 업로드 양식
+엥???!!!
 
-## 위 형식을 참고하여 블로그를 커스텀하시오
+## 이게 맞습니까
 
-게시물 업로드 양식
+어쩌고 저쩌고? 💻 이모티콘도 되나?
+image.png
+이것도 되나?
